@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4320A8931BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4320A8901BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.h */; settings = {ASSET_TAGS = (); }; };
+		4320A8931BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4320A8901BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4320A8941BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 4320A8911BB20E1700AE91E2 /* UIViewController+KeyboardAnimation.m */; settings = {ASSET_TAGS = (); }; };
-		4320A8951BB20E1700AE91E2 /* UIViewControllerKeyboardAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4320A8921BB20E1700AE91E2 /* UIViewControllerKeyboardAnimation.h */; settings = {ASSET_TAGS = (); }; };
+		4320A8951BB20E1700AE91E2 /* UIViewControllerKeyboardAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4320A8921BB20E1700AE91E2 /* UIViewControllerKeyboardAnimation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
